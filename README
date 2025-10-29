@@ -1,0 +1,14 @@
+1.
+firstdock-ubuntu
+
+2.
+secdock-nginx
+ports 8080:80
+
+3.
+thrdock-flask
+with folder flask-app
+
+4.
+multi-stage-flask
+with folder flask-app-mulri-stage

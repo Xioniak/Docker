@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXISTS data;
+USE data;
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(50)
+);
+INSERT INTO users (name) VALUES ('Adrian'), ('Patrycja');
+SELECT * FROM users;
