@@ -7,11 +7,18 @@ ports 8080:80
 
 3.
 thrdock-flask
-with folder flask-app
+need flask-app folder
 
 4.
-
+visit-counter/web
+visit-counter/db
+need visit-counter folder
 
 5.
 multi-stage-flask
-with folder flask-app-mulri-stage
+need flask-app-mulri-stage folder
+
+6.
+mysql-client/mysql-client
+mysql-client/db
+need mysql-client folder
